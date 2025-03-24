@@ -1,6 +1,6 @@
-# hugo-notion
+# nosy (previously hugo-notion)
 
-Author your Hugo blog's blog posts in Notion.
+nosy (short for "Notion Sync") gives the ability to author your Hugo blog's blog posts in Notion.
 
 hugo-notion gives you the ability to use Notion as a CMS (Content Management System) for your Hugo site/blog.
 
